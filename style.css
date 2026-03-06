@@ -1,0 +1,14 @@
+body{
+margin:0;
+overflow:hidden;
+background:black;
+font-family:Arial;
+color:white;
+}
+
+#ui{
+position:absolute;
+top:10px;
+left:10px;
+z-index:10;
+}
